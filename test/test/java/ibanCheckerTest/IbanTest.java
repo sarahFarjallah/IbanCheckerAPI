@@ -11,7 +11,7 @@ public class IbanTest {
 
 	@Test
 	public void test() {
-		IbanChecker ICR = new IbanChecker("AL 34535 34535 345534 355"); // insert account number here 
+		IbanChecker ICR = new IbanChecker("AL 34535 34535 345534 355"); // insert account number to test here 
 		try {
 			Assert.assertTrue(ICR.checkLength());
 			System.out.println("Passed check length");
