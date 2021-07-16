@@ -17,7 +17,7 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="References/gson-2.8.6.jar"/>
-	<classpathentry kind="lib" path="References/org.json-20120521.jar"/>
+	<classpathentry exported="true" kind="lib" path="References/gson-2.8.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="References/org.json-20120521.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
